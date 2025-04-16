@@ -1,8 +1,8 @@
-# NestJS User Authentication API
+# NestJS User Authentication service
 
 ## Description
 
-A simple REST API for user registration, authentication, and listing built with:
+A simple REST API for user registration, authentication and listing built with:
 - NestJS
 - PostgreSQL
 - Prisma ORM
